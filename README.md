@@ -1,4 +1,4 @@
-# Sebastian's JavaScript Challenge - JavaScript and DOM Manipulation
+# [Sebastian's JavaScript Challenge - JavaScript and DOM Manipulation](https://uno-sebastian.github.io/javascript-challenge/)
 
 ## Background
 
