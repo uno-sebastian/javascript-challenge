@@ -192,7 +192,7 @@ function updateTable(sightings = []) {
 		sightings.forEach(sighting => {
 			var row = tbody.append("tr");
 			Object.entries(sighting).forEach(function ([key, value]) {
-				row.append("td").text(value);
+				row.append("td").html(value);
 			});
 		});
 	}
